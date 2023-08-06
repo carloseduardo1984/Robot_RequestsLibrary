@@ -10,8 +10,10 @@ First steps > https://robocorp.com/docs/development-guide/http/http-examples
 
 
 Focus:
+
 ![image](https://github.com/carloseduardo1984/Robot_RequestsLibrary/assets/33332202/6cef026f-3335-47d7-b327-73dc7d267179)
 
 Archtectures comparation:
+
 ![image](https://github.com/carloseduardo1984/Robot_RequestsLibrary/assets/33332202/c4a32c62-9e07-442a-88ad-9e07f4ec43bb)
 
