@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0.2 (Python 3.11.3 on win32)" generated="20230723 12:46:24.006" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot" source="C:\Users\carlo\OneDrive\Área de Trabalho\robot">
+<suite id="s1-s1" name="Test" source="C:\Users\carlo\OneDrive\Área de Trabalho\robot\test.robot">
+<test id="s1-s1-t1" name="Open Browser" line="81">
+<status status="FAIL" starttime="20230723 12:46:24.325" endtime="20230723 12:46:24.326">Test contains no keywords.</status>
+</test>
+<status status="FAIL" starttime="20230723 12:46:24.039" endtime="20230723 12:46:24.329"/>
+</suite>
+<status status="FAIL" starttime="20230723 12:46:24.010" endtime="20230723 12:46:24.332"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Robot">Robot</stat>
+<stat pass="0" fail="1" skip="0" id="s1-s1" name="Test">Robot.Test</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
